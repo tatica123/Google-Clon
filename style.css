@@ -1,0 +1,21 @@
+header{
+    width: 100%;
+    height: 60%;
+}
+header nav{
+    display: flex;
+    justify-content: flex-end;
+    background-color: yellow;
+}
+header nav .nav-right-section{
+    width: 250px;
+    height: auto;
+    display: flex;
+    list-style: none;
+    align-items: center;
+    background-color: brown;
+}
+nav .nav-right-section a{
+    background-color: goldenrod;
+    margin-right: 10px;
+}
