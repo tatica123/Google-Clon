@@ -37,9 +37,14 @@ nav .nav-right-section a{
     margin-right: 10px;
     color: #000000;
 }
+
 main{
     margin-top: 150px;
     text-align: center;
+}
+main .main-input-container:hover{
+    box-shadow: 0 1px 6px 0 black;
+    border-color: darkblue;
 }
 main .main-input{
     width: 530px;
